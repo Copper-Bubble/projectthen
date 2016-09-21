@@ -1,0 +1,36 @@
+body{
+	padding: 150px	;
+	font-family: helvetica;
+	color: #fff;
+	background-image: url('../img/cat-51663_640.jpg');
+	background-size: cover;
+}
+
+.nav ul li{
+list-style: none;
+display: inline;
+color: #edbd64;
+}
+
+li{
+	padding: 15px;
+}
+
+a{text-decoration: none;}
+
+p{
+font-family: cursive;:;
+	color: #32bb8b;
+
+}
+
+.nav a:hover {
+	text-decoration: underline;
+	color: #A664ED;
+}
+
+.text{
+	padding: 50px;
+	background:  rgb(0,0,0,.5);
+
+}
